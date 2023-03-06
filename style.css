@@ -72,6 +72,7 @@ h3{
     color:lightsalmon;
 }
 #gallery img{
+    max-height: 400px;
     max-width: 300px;
     margin-bottom: 30px;
 }
